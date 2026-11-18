@@ -1,0 +1,3 @@
+technology,module_model,module_rating_W,efficiency_pct,module_length_m,module_width_m,modules_installed,installed_capacity_kW,system_initial_cost_USD_per_kW,system_initial_cost_USD,annual_energy_yield_kWh_per_kW,annual_energy_yield_kWh_per_m2,payback_period_years,module_area_m2,power_density_W_per_m2,installed_cost_per_W_USD
+Monocrystalline (Mono-Si),CSUN355-72M,355,18.3,1.96,0.99,832,295.36,3354,990637,917.58,167.87,8.67,1.9404,182.9519686662544,3.354
+Polycrystalline (Poly-Si),CSUN310-72P,310,16.0,1.96,0.99,832,257.92,3250,838240,921.98,147.29,8.31,1.9404,159.76087404658833,3.25

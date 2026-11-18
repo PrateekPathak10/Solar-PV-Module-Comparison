@@ -1,0 +1,10 @@
+{
+  "efficiency_advantage_mono_pct": 14.375000000000004,
+  "module_rating_advantage_mono_pct": 14.516129032258075,
+  "installed_capacity_advantage_mono_pct": 14.516129032258075,
+  "power_density_advantage_mono_pct": 14.516129032258075,
+  "energy_per_area_advantage_mono_pct": 13.97243533165864,
+  "cost_per_kW_premium_mono_pct": 3.200000000000003,
+  "annual_yield_per_kW_difference_mono_pct": -0.4772337794746062,
+  "payback_difference_years_mono_minus_poly": 0.35999999999999943
+}
